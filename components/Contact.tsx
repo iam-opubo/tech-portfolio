@@ -57,7 +57,7 @@ export default function Contact() {
                 </Circle>
                 <VStack align="start" gap="0">
                   <Text fontWeight="bold" fontSize="lg">Call:</Text>
-                  <Text color={isLight ? "gray.600" : "whiteAlpha.600"}>+234 812 345 6789</Text>
+                  <Text color={isLight ? "gray.600" : "whiteAlpha.600"}>+234 9125410151</Text>
                 </VStack>
               </HStack>
 
